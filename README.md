@@ -1,9 +1,9 @@
 - 👋 Hi, I'm Patrick!
-- 👨‍🎓 I'm studying a Master's Degree in Computer Science and Engineering at The Technical University of Denmark (DTU).
 
 
 <!--
 - 👋 Hi, I’m @patricklopdrup
+- 👨‍🎓 I'm studying a Master's Degree in Computer Science and Engineering at The Technical University of Denmark (DTU).
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
